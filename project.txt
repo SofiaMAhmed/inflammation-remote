@@ -10,4 +10,4 @@ We may need to bring a thirs person with Python or R programming skills on board
 5) blablabla
 6) check git diff
 7) Find out how to reattach a head
-
+8) Now push this file for Anuiska
