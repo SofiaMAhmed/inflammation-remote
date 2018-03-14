@@ -1,1 +1,2 @@
 Some initial notes on the data analysis to identify how inflammation changes over time after surgery.
+Jane is a data scientist and Simit is a statistician.  We will need to determine who is responsible for what is is in this project.
