@@ -1,2 +1,5 @@
 We need adata about patioents, wards, temperatures and inflammation size
 We also need t decide how to analyse the data
+
+Samples will be randomised and annoymous.
+
